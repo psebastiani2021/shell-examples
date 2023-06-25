@@ -1,0 +1,2 @@
+To test Bash code online, you can use a recommended Bash compiler: https://www.jdoodle.com/test-bash-shell-script-online/.
+JDoodle is one of the best and fast Bash compilers.
