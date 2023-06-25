@@ -1,0 +1,3 @@
+# Ignoring unwanted files if you run the repo in a Shell program
+.sh
+.bash
