@@ -1,0 +1,4 @@
+If you want to test and compile PowerShell code, you can:
+ - Type in the search bar "PowerShell"
+ - Enter the Terminal and type powershell in lowercase. You will be able to write PowerShell code.
+ - (For Windows) Type ⊞+R and then enter "powershell" in the dialog box.
